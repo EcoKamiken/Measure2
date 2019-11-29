@@ -9,6 +9,8 @@ autopep8 = "*"
 mypy = "*"
 
 [packages]
+redis = "*"
+walrus = "*"
 
 [requires]
 python_version = "3.7"
